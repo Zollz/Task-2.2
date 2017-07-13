@@ -9,7 +9,7 @@ public class Program
         Account account = new Account("Eddie", 200000);
         Account account2 = new Account("Jeff", 2);
        
-       
+        account.Print();
 
   
  
