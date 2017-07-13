@@ -1,0 +1,8 @@
+C:\users\eddie\documents\github\task-2.2\bin\Debug\netcoreapp1.1\task-2.2.deps.json
+C:\users\eddie\documents\github\task-2.2\bin\Debug\netcoreapp1.1\task-2.2.runtimeconfig.json
+C:\users\eddie\documents\github\task-2.2\bin\Debug\netcoreapp1.1\task-2.2.runtimeconfig.dev.json
+C:\users\eddie\documents\github\task-2.2\bin\Debug\netcoreapp1.1\task-2.2.dll
+C:\users\eddie\documents\github\task-2.2\bin\Debug\netcoreapp1.1\task-2.2.pdb
+C:\users\eddie\documents\github\task-2.2\obj\Debug\netcoreapp1.1\task-2.2.AssemblyInfo.cs
+C:\users\eddie\documents\github\task-2.2\obj\Debug\netcoreapp1.1\task-2.2.dll
+C:\users\eddie\documents\github\task-2.2\obj\Debug\netcoreapp1.1\task-2.2.pdb
