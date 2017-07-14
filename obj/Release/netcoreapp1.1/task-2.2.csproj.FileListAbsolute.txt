@@ -6,3 +6,4 @@ C:\Users\Eddie\Documents\GitHub\Task-2.2\bin\Release\netcoreapp1.1\task-2.2.pdb
 C:\Users\Eddie\Documents\GitHub\Task-2.2\obj\Release\netcoreapp1.1\task-2.2.AssemblyInfo.cs
 C:\Users\Eddie\Documents\GitHub\Task-2.2\obj\Release\netcoreapp1.1\task-2.2.dll
 C:\Users\Eddie\Documents\GitHub\Task-2.2\obj\Release\netcoreapp1.1\task-2.2.pdb
+C:\Users\Eddie\Documents\GitHub\Task-2.2\obj\Release\netcoreapp1.1\task-2.2.csprojResolveAssemblyReference.cache
