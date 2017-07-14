@@ -5,10 +5,15 @@ public class Program
 {
     public static void Main()
     {
-        Account account = new Account("Eddies Account", 200000);
 
-        account.Print()'
-        account.Deposit(100);
+        Console.WriteLine("What is your ")
+        Account account = new Account("Eddie", 20000);
+        Account account2 = new Account("Jeff", 50);
+      
+
+        account.Print();
+        account.Deposit(500);
+        account.PrintDeposit();
         account.Print();
     }
 }

@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Eddie\\Documents\\GitHub\\Task-2.2\\task-2.2.csproj",
+    "projectName": "task-2.2",
+    "projectPath": "C:\\Users\\Eddie\\Documents\\GitHub\\Task-2.2\\task-2.2.csproj",
+    "outputPath": "C:\\Users\\Eddie\\Documents\\GitHub\\Task-2.2\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "1.1.2"
+        }
+      }
+    }
+  }
+}
