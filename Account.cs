@@ -9,7 +9,7 @@ public class Account
     {
     _name = name;
     _balance = startingBalance;
-    Console.WriteLine("Your name is " + _name + " your balance is " + _balance);
+    Console.WriteLine("Your name is " + _name + " your account balance is $" + _balance);
     
     }
 
@@ -21,6 +21,11 @@ public class Account
     public void Withdraw(decimal amountToSubtract)
     {
     _balance = _balance - amountToSubtract;
+    }
+
+    public void Print()
+    {
+        Console.WriteLine("Your balance is now $" + _balance);
     }
 
     public string Name
